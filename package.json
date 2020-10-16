@@ -1,4 +1,14 @@
 {
+  "name": "gatsby-plugin-vwo",
+  "version": "1.0.0",
+  "description": "Plugin to add VWO to your Gatsby site",
+  "main": "index.js",
+  "repository": "git@github.com:ynnoj/gatsby-plugin-vwo.git",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "vwo"
+  ],
   "author": "Jonathan Steele <jonathan@steele.pro> (https://steele.pro)",
   "license": "MIT"
 }
